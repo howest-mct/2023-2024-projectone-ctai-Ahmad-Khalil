@@ -1,13 +1,12 @@
 # Project Information
 
-**FIRST NAME LAST NAME:** A B
+**FIRST NAME LAST NAME:** Ahmad Khalil
 
-**Sparring Partner:** C D
+**Sparring Partner:** Wout Crombez
 
-**Project Summary in max 10 words:** E
+**Project Summary in max 10 words:** AI module for real-time text recognition and vocalization for accessibility.
 
-**Project Title:** F
-
+**Project Title:** Text Vision Pro
 # Tips for Feedback Conversations
 
 ## Preparation
