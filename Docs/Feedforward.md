@@ -33,17 +33,17 @@
 
 I had no questions on this date, I will ask for feedback after I start with module. (24/05)
 
-## Conversation 1 (Date: xx/xx/2024)
+## Conversation 1 (Date: 30/05/2024)
 
-Lecturer:
+Lecturer: Marie (AI - Python) 
 
 Questions for this conversation:
 
-- Question 1: V
+- Question 1: What do I give priority to first? character recognition or text recognition?
 
 This is the feedback on my questions.
 
-- Feedback 1: G
+- Feedback 1: Focus on the character recognition part, and build from there to the text recognition part.
 
 ## Conversation 2 (Date: xx/xx/2024)
 
