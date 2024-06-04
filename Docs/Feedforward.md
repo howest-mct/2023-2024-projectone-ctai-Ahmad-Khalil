@@ -1,13 +1,12 @@
 # Project Information
 
-**FIRST NAME LAST NAME:** A B
+**FIRST NAME LAST NAME:** Ahmad Khalil
 
-**Sparring Partner:** C D
+**Sparring Partner:** Wout Crombez
 
-**Project Summary in max 10 words:** E
+**Project Summary in max 10 words:** AI module for real-time text recognition and vocalization for accessibility.
 
-**Project Title:** F
-
+**Project Title:** Text Vision Pro
 # Tips for Feedback Conversations
 
 ## Preparation
@@ -32,17 +31,19 @@
 
 # Feedforward Conversations
 
-## Conversation 1 (Date: xx/xx/2024)
+I had no questions on this date, I will ask for feedback after I start with module. (24/05)
 
-Lecturer:
+## Conversation 1 (Date: 30/05/2024)
+
+Lecturer: Marie (AI - Python) 
 
 Questions for this conversation:
 
-- Question 1: V
+- Question 1: What do I give priority to first? character recognition or text recognition?
 
 This is the feedback on my questions.
 
-- Feedback 1: G
+- Feedback 1: Focus on the character recognition part, and build from there to the text recognition part.
 
 ## Conversation 2 (Date: xx/xx/2024)
 
