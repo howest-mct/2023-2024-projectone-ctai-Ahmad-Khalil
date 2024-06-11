@@ -32,8 +32,10 @@
 # Feedforward Conversations
 
 I had no questions on this date, I will ask for feedback after I start with module. (24/05)
-
-## Conversation 1 (Date: 30/05/2024)
+## Conversation 1 (Date: 27/05/2024)
+Mvp1: 
+-Issues: Fix Toggle
+## Conversation 2 (Date: 30/05/2024)
 
 Lecturer: Marie (AI - Python) 
 
@@ -45,17 +47,15 @@ This is the feedback on my questions.
 
 - Feedback 1: Focus on the character recognition part, and build from there to the text recognition part.
 
-## Conversation 2 (Date: xx/xx/2024)
+## Conversation 3 (Date: 04/06/2024)
 
-Lecturer:
-
-Questions for this conversation:
-
-- Question 1: V
-
-This is the feedback on my questions.
-
-- Feedback 1: G
+Mvp2:
+-issues: 
+ o - Toggl fixed  
+ o - Nano  probably not going to work
+ o - Add tour moment to feed forward
+ o - Focus on improving model
+ o - A lot of classes
 
 ## Conversation 3 (Date: xx/xx/2024)
 
