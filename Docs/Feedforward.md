@@ -4,7 +4,7 @@
 
 **Sparring Partner:** Wout Crombez
 
-**Project Summary in max 10 words:** AI module for real-time text recognition and vocalization for accessibility.
+**Project Summary in max 10 words:** AI module for real-time character recognition + potentianl text recognition vocalization.
 
 **Project Title:** Text Vision Pro
 # Tips for Feedback Conversations
